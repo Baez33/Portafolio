@@ -94,7 +94,7 @@
       </section>
       <footer class="text-center mt-4">
         <p>Follow me on:</p>
-        <a href="https://www.instagram.com/leslie._.bp/tagged/" class="btn btn-outline-primary mx-2">
+        <a href="https://www.instagram.com/leslie._.bp/" class="btn btn-outline-primary mx-2">
           <i class="fab fa-instagram"></i> Instagram
         </a>
       </footer>
