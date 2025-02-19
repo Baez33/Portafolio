@@ -31,16 +31,22 @@
         </div>
       </div>
     </nav>
-
     <div class="container mt-4">
       <section id="home" class="text-center">
         <h1>Bienvenido a Mi Portafolio</h1>
         <p>Hola, Soy Leslie Baez, soy una amante de la animacion y aprendiz del diseño de paginas.</p>
       </section>
       <section id="about" class="text-center">
-        <h2>About Me</h2>
-        <p>Estoy estudiando la carrera de Entornos Virtuales y Negocios Digitales en la Universidad Tecnologica de la Riviera Maya, Estos son algunos de los proyectos que he creado con ayuda de profesores o en algunos casos yo sola.</p>
-      </section>
+  <div class="row align-items-center">
+    <div class="col-md-6">
+      <h2>About Me</h2>
+      <p>Estoy estudiando la carrera de Entornos Virtuales y Negocios Digitales en la Universidad Tecnológica de la Riviera Maya.</p>
+    </div>
+    <div class="col-md-6">
+      <img src="../src/assets/yo.jpg" class="img-fluid rounded shadow" alt="Leslie Baez">
+    </div>
+  </div>
+</section>
       <section id="gallery" class="text-center">
         <h2>Gallery</h2>
         <div class="gallery-container">
@@ -93,11 +99,15 @@
         </form>
       </section>
       <footer class="text-center mt-4">
-        <p>Follow me on:</p>
-        <a href="https://www.instagram.com/leslie._.bp/" class="btn btn-outline-primary mx-2">
-          <i class="fab fa-instagram"></i> Instagram
-        </a>
-      </footer>
+  <p>Follow me on:</p>
+  <a href="https://www.instagram.com/leslie._.bp/" class="btn btn-outline-primary mx-2">
+    <i class="fab fa-instagram"></i>
+  </a>
+  <a href="lelo baez#5963" class="btn btn-outline-secondary mx-2">
+    <i class="fab fa-discord"></i>
+  </a>
+</footer>
+
     </div>
   </div>
 </template>
